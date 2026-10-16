@@ -1,0 +1,198 @@
+{
+  "categories": [
+    {
+      "id": "sarees",
+      "name": "Sarees",
+      "tamilName": "புடவைகள்",
+      "slug": "sarees",
+      "description": "Heirloom Kanchipuram mulberry silks, Banarasi brocades, and soft silks."
+    },
+    {
+      "id": "kurtis",
+      "name": "Kurtis",
+      "tamilName": "குர்திகள்",
+      "slug": "kurtis",
+      "description": "Handcrafted Anarkalis, flared kurtas, and festive tunics."
+    },
+    {
+      "id": "salwar-suits",
+      "name": "Salwar Suits",
+      "tamilName": "சல்வார் சூட்கள்",
+      "slug": "salwar-suits",
+      "description": "Three-piece sets with rich dupattas and zardozi work."
+    },
+    {
+      "id": "mens-wear",
+      "name": "Men's Wear",
+      "tamilName": "ஆண்கள் ஆடை",
+      "slug": "mens-wear",
+      "description": "Pure silk dhotis, Kasavu Mayilkanmu borders, and kurta sets."
+    },
+    {
+      "id": "kids-wear",
+      "name": "Kids' Wear",
+      "tamilName": "குழந்தைகள் ஆடை",
+      "slug": "kids-wear",
+      "description": "Traditional Pattu Pavadai sets and boys dhoti kurtas."
+    },
+    {
+      "id": "blouses",
+      "name": "Blouses",
+      "tamilName": "ரவிக்கை",
+      "slug": "blouses",
+      "description": "Intricately embroidered readymade silk blouses."
+    },
+    {
+      "id": "lehengas",
+      "name": "Lehengas",
+      "tamilName": "லெஹங்கா",
+      "slug": "lehengas",
+      "description": "Opulent bridal lehengas with authentic zari and pearls."
+    },
+    {
+      "id": "dresses",
+      "name": "Dresses",
+      "tamilName": "வடிவமைப்பு ஆடைகள்",
+      "slug": "dresses",
+      "description": "Contemporary Indo-western silhouettes in handloom textiles."
+    }
+  ],
+  "products": [
+    {
+      "id": "AGAM-KUR-01",
+      "sku": "NT-KUR-3899",
+      "name": "Chanderi Silk Flared Kurta Set",
+      "tamilName": "சந்தேரி சில்க் அனார்கலி குர்தா",
+      "category": "Kurtis",
+      "categorySlug": "kurtis",
+      "subcategory": "Anarkali Kurtis",
+      "price": 3899,
+      "originalPrice": 4999,
+      "discount": 22,
+      "rating": 4.9,
+      "reviewCount": 48,
+      "isBestseller": true,
+      "isNew": false,
+      "isFestive": true,
+      "inStock": true,
+      "stockCount": 14,
+      "fabrics": "Chanderi Silk with Zardozi & Gota Patti",
+      "weave": "Hand-woven artisan craft",
+      "colors": [
+        "Mint Green",
+        "Ivory Cream",
+        "Blush Pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=1000&q=85",
+      "description": "Adorned with opulent silver gota patti and delicate zardozi needlework.",
+      "origin": "Nirmala Atelier, Tamil Nadu"
+    },
+    {
+      "id": "AGAM-SAR-01",
+      "sku": "NT-SAR-14500",
+      "name": "Kanchipuram Pure Mulberry Silk Bridal Saree",
+      "tamilName": "காஞ்சிபுரம் தூய பட்டு புடவை",
+      "category": "Sarees",
+      "categorySlug": "sarees",
+      "subcategory": "Kanchipuram Silk Sarees",
+      "price": 14500,
+      "originalPrice": 18999,
+      "discount": 24,
+      "rating": 5,
+      "reviewCount": 62,
+      "isBestseller": true,
+      "isNew": true,
+      "isFestive": true,
+      "inStock": true,
+      "stockCount": 8,
+      "fabrics": "100% Pure Mulberry Silk with Genuine Tested Zari",
+      "weave": "Korvai Double Warp Handloom",
+      "colors": [
+        "Crimson Red",
+        "Royal Gold",
+        "Deep Emerald"
+      ],
+      "sizes": [
+        "Free Size"
+      ],
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=85",
+      "description": "Woven with certified Silk Mark purity in our ancestral looms.",
+      "origin": "Kanchipuram Master Weavers, Nirmala Tex"
+    },
+    {
+      "id": "AGAM-MEN-01",
+      "sku": "NT-MEN-5299",
+      "name": "Royal Mulberry Silk Kurta & Dhoti (Veshti) Set",
+      "tamilName": "தூய பட்டு குர்தா மற்றும் வேஷ்டி",
+      "category": "Men's Wear",
+      "categorySlug": "mens-wear",
+      "subcategory": "Traditional Veshti and Dhoti",
+      "price": 5299,
+      "originalPrice": 6999,
+      "discount": 24,
+      "rating": 4.9,
+      "reviewCount": 31,
+      "isBestseller": true,
+      "isNew": false,
+      "isFestive": true,
+      "inStock": true,
+      "stockCount": 15,
+      "fabrics": "100% Pure Raw Mulberry Silk with Kasavu Mayilkanmu Border",
+      "weave": "Handcrafted Powerloom Silk",
+      "colors": [
+        "Classic Ivory Gold",
+        "Cream Sand"
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "image": "https://images.unsplash.com/photo-1610030469850-255e347e0964?auto=format&fit=crop&w=1000&q=85",
+      "description": "Symbol of traditional South Indian dignity and timeless refinement.",
+      "origin": "Nirmala Handloom Cluster"
+    }
+  ],
+  "orders": [
+    {
+      "id": "AGAM-ORD-9021",
+      "date": "2026-10-12",
+      "status": "Shipped",
+      "trackingNumber": "DEL-AGAM-894109",
+      "courier": "BlueDart Express",
+      "total": 3685,
+      "paymentMethod": "UPI",
+      "paymentStatus": "Paid",
+      "customerName": "Kavya S.",
+      "customerPhone": "+91 98401 23456",
+      "city": "Coimbatore",
+      "itemsCount": 1
+    }
+  ],
+  "coupons": [
+    {
+      "code": "AGAM10",
+      "discountPercent": 10,
+      "label": "10% Welcome Heritage Discount"
+    },
+    {
+      "code": "FESTIVE500",
+      "flatDiscount": 500,
+      "minCart": 3000,
+      "label": "₹500 Flat Festive Discount"
+    },
+    {
+      "code": "SILKMARK",
+      "discountPercent": 15,
+      "label": "15% Pure Silk Mark Discount"
+    }
+  ]
+}
